@@ -1,0 +1,9 @@
+dict:
+  ξ: E
+  ҈: Hello
+  €: 1
+list:
+- yaml
+- json
+- scv
+num: 42
